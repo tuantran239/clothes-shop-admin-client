@@ -1,0 +1,15 @@
+.ant-btn.ant-btn-dangerous {
+    display: none;
+}
+
+.ant-btn.ant-btn-primary {
+    display: none;
+}
+
+.ant-btn.ant-btn-icon-only {
+    display: inline-block;
+}
+
+.ant-card-body::after {
+    display: none;
+}
